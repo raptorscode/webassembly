@@ -1,2 +1,2 @@
-# webassembly
-C/C++/Rust App to be exported as wasm module
+# Get Started:
+https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts
